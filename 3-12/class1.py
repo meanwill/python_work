@@ -4,7 +4,7 @@
 @Author: Bend Function
 @Date: 2020-03-12 19:35:40
 @LastEditors: Bend Function
-@LastEditTime: 2020-03-12 19:35:49
+@LastEditTime: 2020-03-13 18:30:18
 '''
 print("___sign up____")
 uname = input("Pls input user name:")
