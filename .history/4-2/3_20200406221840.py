@@ -1,0 +1,1 @@
+maxN, x, y = map
